@@ -1,0 +1,7 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+.errorMsg{
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
